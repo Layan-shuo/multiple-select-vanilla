@@ -15,6 +15,7 @@ import Example13 from './examples/example13';
 import Example14 from './examples/example14';
 import Example15 from './examples/example15';
 import Example16 from './examples/example16';
+import Example17 from './examples/example17.js';
 import GettingStarted from './getting-started';
 import I18n from './i18n/i18n';
 import Methods01 from './methods/methods01';
@@ -94,6 +95,7 @@ export const exampleRouting = [
       { name: 'example14', view: '/src/examples/example14.html', viewModel: Example14, title: 'The Divider' },
       { name: 'example15', view: '/src/examples/example15.html', viewModel: Example15, title: 'Dark Mode' },
       { name: 'example16', view: '/src/examples/example16.html', viewModel: Example16, title: 'Template with Images' },
+      { name: 'example17', view: '/src/examples/example17.html', viewModel: Example17, title: 'Test shuo' },
     ],
   },
   {

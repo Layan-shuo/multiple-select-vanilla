@@ -15,7 +15,7 @@ import Example13 from './examples/example13';
 import Example14 from './examples/example14';
 import Example15 from './examples/example15';
 import Example16 from './examples/example16';
-import Example17 from './examples/example17.js';
+import Example17 from './examples/example17';
 import GettingStarted from './getting-started';
 import I18n from './i18n/i18n';
 import Methods01 from './methods/methods01';
